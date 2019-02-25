@@ -90,4 +90,16 @@ a.menuLink:hover{
 	background color: lightgrey ;
 }
 
+/* Allows for fonts to be carried via styles instead of copy paste per page */
 
+<style>
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+</style> 
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Abel|Staatliches');
+</style> 
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Hind+Guntur');
+</style> 
